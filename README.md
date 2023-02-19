@@ -7,7 +7,7 @@ Dm me on Discord: єℓєνєи#8485
 ## Reporting bugs
 Submit a bug report on [issues](https://github.com/elefelen/DbD-MiniMap/issues)
 
-# How to install
+## How to install
 Download the installer from [here](https://github.com/elefelen/DbD-MiniMap/releases).
 Run setup.exe.
 Follow the instructions.
