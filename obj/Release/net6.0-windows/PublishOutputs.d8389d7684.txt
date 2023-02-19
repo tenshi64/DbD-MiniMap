@@ -1,0 +1,5 @@
+C:\Users\Michael\Documents\DbD-MiniMap\DbD-MiniMap\bin\Release\net6.0-windows\publish\DbD-MiniMap.exe
+C:\Users\Michael\Documents\DbD-MiniMap\DbD-MiniMap\bin\Release\net6.0-windows\publish\DbD-MiniMap.dll
+C:\Users\Michael\Documents\DbD-MiniMap\DbD-MiniMap\bin\Release\net6.0-windows\publish\DbD-MiniMap.deps.json
+C:\Users\Michael\Documents\DbD-MiniMap\DbD-MiniMap\bin\Release\net6.0-windows\publish\DbD-MiniMap.runtimeconfig.json
+C:\Users\Michael\Documents\DbD-MiniMap\DbD-MiniMap\bin\Release\net6.0-windows\publish\DbD-MiniMap.pdb
