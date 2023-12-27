@@ -2,7 +2,7 @@
 An application that allows competitive players to communicate faster by displaying the map from Dead by Daylight.
 
 ## Contact 
-Dm me on Discord: @tenshi64bit
+Dm me on Discord: @tenshi128bit
 
 ## Reporting bugs
 Submit a bug report on [issues](https://github.com/elefelen/DbD-MiniMap/issues)
